@@ -52,91 +52,85 @@ Desenvolvedora iOS formada em Ciência da Computação pela UFAM, com 5 aplicaç
   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliana039&layout=compact&theme=radical)
 
 </div>
-
-## 🏆 Projetos Publicados na App Store
-
+🏆 Projetos Publicados na App Store
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/logoTimeti.png" width="60" style="vertical-align: middle;" /> [Timeti](https://apps.apple.com/br/app/timeti/id6752839068)
-
-**🏆 3º lugar Best Paper SBGames 2025**
-
+<h3>
+  <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/logoTimeti.png" width="60" align="center" style="vertical-align: middle;" />
+  <a href="https://apps.apple.com/br/app/timeti/id6752839068">Timeti</a>
+</h3>
+🏆 3º lugar Best Paper SBGames 2025
 Jogo educacional com algoritmo de plano projetivo finito desenvolvido em Python e integrado ao SwiftUI via JSON.
+Stack: Swift, SwiftUI, Python
+Destaques:
 
-**Stack:** Swift, SwiftUI, Python  
-**Destaques:**
-- Algoritmo matemático complexo
-- Integração multiplataforma
-- Artigo científico publicado
+Algoritmo matemático complexo
+Integração multiplataforma
+Artigo científico publicado
 
 </td>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone%201.png" width="60" style="vertical-align: middle;" /> [Story Stage](https://apps.apple.com/br/app/story-stage/id6751246359)
-
-**🎭 Jogo multiplayer de improvisação**
-
+<h3>
+  <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone%201.png" width="60" align="center" style="vertical-align: middle;" />
+  <a href="https://apps.apple.com/br/app/story-stage/id6751246359">Story Stage</a>
+</h3>
+🎭 Jogo multiplayer de improvisação
 Desenvolvimento de habilidades de comunicação através de improvisação teatral com suporte para até 8 jogadores.
+Stack: Swift, SwiftUI, GameCenter
+Destaques:
 
-**Stack:** Swift, SwiftUI, GameCenter  
-**Destaques:**
-- Sincronização multiplayer
-- Sistema de comunicação
-- Responsividade multi-device
-- Internacionalização
+Sincronização multiplayer
+Sistema de comunicação
+Responsividade multi-device
+Internacionalização
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/refs/heads/main/icones%20apps/App%20Icon%20Light.png" width="60" style="vertical-align: middle;" /> [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
-
-**📱⌚ iOS + watchOS | 8 semanas**
-
+<h3>
+  <img src="https://raw.githubusercontent.com/juliana039/juliana039/refs/heads/main/icones%20apps/App%20Icon%20Light.png" width="60" align="center" style="vertical-align: middle;" />
+  <a href="https://apps.apple.com/br/app/beezzy/id6746419810">Beezzy</a>
+</h3>
+📱⌚ iOS + watchOS | 8 semanas
 Gestão de tarefas familiares com sincronização em tempo real entre iPhone e Apple Watch.
+Stack: Swift, SwiftUI, CloudKit, watchOS
+Destaques:
 
-**Stack:** Swift, SwiftUI, CloudKit, watchOS  
-**Destaques:**
-- Arquitetura MVVM
-- Sincronização CloudKit
-- Watch Connectivity
-- Componentes reutilizáveis
+Arquitetura MVVM
+Sincronização CloudKit
+Watch Connectivity
+Componentes reutilizáveis
 
 </td>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/refs/heads/main/icones%20apps/Icone.png" width="60" style="vertical-align: middle;" /> [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
-
-**♿ Comunicação assistiva | 6 semanas**
-
+<h3>
+  <img src="https://raw.githubusercontent.com/juliana039/juliana039/refs/heads/main/icones%20apps/Icone.png" width="60" align="center" style="vertical-align: middle;" />
+  <a href="https://apps.apple.com/br/app/carebeep/id6737746972">CareBeep</a>
+</h3>
+♿ Comunicação assistiva | 6 semanas
 Solução de comunicação acessível com foco em inclusão digital.
+Stack: Swift, SwiftUI, Push Notifications
+Destaques:
 
-**Stack:** Swift, SwiftUI, Push Notifications  
-**Destaques:**
-- Acessibilidade VoiceOver
-- Internacionalização
-- Push Notifications
-- Iteração pós-lançamento
+Acessibilidade VoiceOver
+Internacionalização
+Push Notifications
+Iteração pós-lançamento
 
 </td>
 </tr>
-
 <tr>
 <td colspan="2" align="center">
-
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone%20cultural%20stormy.png" width="100" style="vertical-align: middle;" /> [Cultural Storm](https://apps.apple.com/br/app/cultural-storm/id6743093618)
-
-**📺 tvOS | 5 semanas**
-
+<h3>
+  <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone%20cultural%20stormy.png" width="100" align="center" style="vertical-align: middle;" />
+  <a href="https://apps.apple.com/br/app/cultural-storm/id6743093618">Cultural Storm</a>
+</h3>
+📺 tvOS | 5 semanas
 Aplicação otimizada para Apple TV seguindo as diretrizes de Human Interface Guidelines.
-
-**Stack:** Swift, SwiftUI, tvOS  
-**Destaques:** Interface otimizada para TV · Navegação por controle remoto · UX/UI seguindo HIG da Apple
-
+Stack: Swift, SwiftUI, tvOS
+Destaques: Interface otimizada para TV · Navegação por controle remoto · UX/UI seguindo HIG da Apple
 </td>
 </tr>
 </table>
