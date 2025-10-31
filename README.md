@@ -1,16 +1,160 @@
-## Hi there 👋
+# 👋 Olá, eu sou Juliana Pereira de Magalhães!
 
-<!--
-**juliana039/juliana039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedora+iOS;Swift+%7C+SwiftUI+%7C+UIKit;5+Apps+na+App+Store;Apple+Developer+Academy)
+  
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedora iOS formada em Ciência da Computação pela UFAM, com 5 aplicações publicadas na App Store. Apaixonada por criar experiências mobile nativas e escaláveis, com foco em código limpo, acessibilidade e boas práticas de desenvolvimento.
+
+- 🍎 **5 aplicações publicadas** na App Store
+- 🎓 Formada pela **Apple Developer Academy**
+- 📱 Especializada em **Swift, SwiftUI e arquitetura MVVM**
+- 🏆 **3º lugar Best Paper** na trilha de Educação do SBGames 2025
+- 🌎 Manaus, Amazonas | Disponível para mobilidade nacional
+- 📫 **Contato:** juliana.pereira.magalhaes@gmail.com
+
+## 🛠️ Stack Tecnológico
+
+### Linguagens & Frameworks
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0061FF?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+### Tecnologias iOS
+![CloudKit](https://img.shields.io/badge/-CloudKit-3693F3?style=flat-square&logo=icloud&logoColor=white)
+![CoreData](https://img.shields.io/badge/-CoreData-FC3159?style=flat-square&logo=apple&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/-Push_Notifications-FF9500?style=flat-square&logo=apple&logoColor=white)
+![GameCenter](https://img.shields.io/badge/-GameCenter-5AC8FA?style=flat-square&logo=apple&logoColor=white)
+![Watch Connectivity](https://img.shields.io/badge/-watchOS-000000?style=flat-square&logo=apple&logoColor=white)
+![SpriteKit](https://img.shields.io/badge/-SpriteKit-5856D6?style=flat-square&logo=apple&logoColor=white)
+
+### Arquitetura & Ferramentas
+![MVVM](https://img.shields.io/badge/-MVVM-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SOLID](https://img.shields.io/badge/-SOLID-66595C?style=flat-square&logo=solid&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TestFlight](https://img.shields.io/badge/-TestFlight-0D96F6?style=flat-square&logo=app-store&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=juliana039&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliana039&layout=compact&theme=radical)
+
+</div>
+
+## 🏆 Projetos Publicados na App Store
+
+### 📱 [Timeti](https://apps.apple.com/br/app/timeti/id6752839068)
+**TCC premiado - 3º lugar Best Paper SBGames 2025**
+> Jogo educacional com algoritmo de plano projetivo finito desenvolvido em Python e integrado ao SwiftUI via JSON.
+
+**Stack:** Swift, SwiftUI, Python  
+**Destaques:** Algoritmo matemático complexo, integração multiplataforma, artigo científico publicado
+
+---
+
+### 🎭 [Story Stage](https://apps.apple.com/br/app/story-stage/id6751246359)
+**Jogo multiplayer de improvisação**
+> Desenvolvimento de habilidades de comunicação através de improvisação teatral com suporte para até 8 jogadores.
+
+**Stack:** Swift, SwiftUI, GameCenter  
+**Destaques:** Sincronização multiplayer, sistema de comunicação entre jogadores, responsividade multi-device, internacionalização
+
+---
+
+### 👨‍👩‍👧 [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
+**App multiplataforma iOS + watchOS - 8 semanas**
+> Gestão de tarefas familiares com sincronização em tempo real entre iPhone e Apple Watch.
+
+**Stack:** Swift, SwiftUI, CloudKit, watchOS, Watch Connectivity  
+**Destaques:** Arquitetura MVVM, sincronização CloudKit, componentes reutilizáveis, watchOS integration
+
+---
+
+### 🗣️ [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
+**Comunicação assistiva - 6 semanas**
+> Solução de comunicação acessível com foco em inclusão digital.
+
+**Stack:** Swift, SwiftUI, Push Notifications, VoiceOver  
+**Destaques:** Acessibilidade total (VoiceOver), internacionalização, push notifications, iteração pós-lançamento
+
+---
+
+### 📺 [Cultural Storm](https://apps.apple.com/br/app/cultural-storm/id6743093618)
+**App tvOS - 5 semanas**
+> Aplicação otimizada para Apple TV seguindo as diretrizes de Human Interface Guidelines.
+
+**Stack:** Swift, SwiftUI, tvOS  
+**Destaques:** Interface otimizada para TV, navegação por controle remoto, UX/UI seguindo HIG da Apple
+
+## 💼 Experiência Profissional
+
+**Desenvolvedora iOS** | Apple Developer Academy | 2024 - Presente
+- Desenvolvimento de aplicações iOS nativas com Swift e SwiftUI
+- Integração de APIs RESTful e serviços em nuvem (CloudKit)
+- Metodologias ágeis (Scrum/Kanban) e versionamento com Git
+- Foco em acessibilidade e UX inclusivo
+
+**Desenvolvedora de Jogos** | Instituto de Pesquisas Eldorado | 2025
+- Desenvolvimento de jogo 3D com Unity e C#
+- Colaboração em equipe multidisciplinar
+- Participação em sprints e cerimônias SCRUM
+
+## 🎓 Formação
+
+**Ciência da Computação** - Universidade Federal do Amazonas (UFAM) | 2025  
+**Técnico em Mecatrônica** - Fundação Matias Machline | 2019
+
+## 🌟 Competências
+
+**Técnicas**
+- Ciclo completo de desenvolvimento iOS (conceituação → publicação)
+- Arquitetura MVVM, MVC e Clean Architecture
+- Princípios SOLID e Clean Code
+- Persistência de dados (CoreData, UserDefaults)
+- Integração de APIs RESTful
+- Testes com XCTests
+
+**Soft Skills**
+- Liderança Técnica
+- Resolução de Problemas Complexos
+- Pensamento Analítico
+- Trabalho Colaborativo
+- Comunicação Eficaz
+- Aprendizado Contínuo
+
+## 🌐 Idiomas
+
+🇧🇷 **Português:** Nativo  
+🇺🇸 **Inglês:** Avançado  
+🇪🇸 **Espanhol:** Básico
+
+## 🤝 Vamos Conectar?
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianapmag/)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliana.pereira.magalhaes@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitas ao perfil](https://komarev.com/ghpvc/?username=juliana039&color=blueviolet&style=flat-square)
+  
+  **💙 Obrigada pela visita! Disponível para oportunidades como Desenvolvedora iOS**
+  
+</div>
