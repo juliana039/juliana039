@@ -10,12 +10,12 @@
 
 Desenvolvedora iOS formada em Ciência da Computação pela UFAM, com 5 aplicações publicadas na App Store. Apaixonada por criar experiências mobile nativas e escaláveis, com foco em código limpo, acessibilidade e boas práticas de desenvolvimento.
 
-- 🍎 **5 aplicações publicadas** na App Store
-- 🎓 Formada pela **Apple Developer Academy**
-- 📱 Especializada em **Swift, SwiftUI e arquitetura MVVM**
-- 🏆 **3º lugar Best Paper** na trilha de Educação do SBGames 2025
-- 🌎 Manaus, Amazonas | Disponível para mobilidade nacional
-- 📫 **Contato:** juliana.pereira.magalhaes@gmail.com
+- **5 aplicações publicadas** na App Store
+- Formada pela **Apple Developer Academy**
+- Especializada em **Swift, SwiftUI e arquitetura MVVM**
+- **3º lugar Best Paper** na trilha de Educação do SBGames 2025
+- Manaus, Amazonas | Disponível para mobilidade nacional
+- **Contato:** juliana.pereira.magalhaes@gmail.com
 
 ## 🛠️ Stack Tecnológico
 
@@ -59,7 +59,7 @@ Desenvolvedora iOS formada em Ciência da Computação pela UFAM, com 5 aplicaç
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/logoTimeti.png" width="60" /> [Timeti](https://apps.apple.com/br/app/timeti/id6752839068)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/logoTimeti.png" width="60" style="vertical-align: middle;" /> [Timeti](https://apps.apple.com/br/app/timeti/id6752839068)
 
 **🏆 3º lugar Best Paper SBGames 2025**
 
@@ -74,7 +74,7 @@ Jogo educacional com algoritmo de plano projetivo finito desenvolvido em Python 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone%201.png" width="60" /> [Story Stage](https://apps.apple.com/br/app/story-stage/id6751246359)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone%201.png" width="60" style="vertical-align: middle;" /> [Story Stage](https://apps.apple.com/br/app/story-stage/id6751246359)
 
 **🎭 Jogo multiplayer de improvisação**
 
@@ -93,7 +93,8 @@ Desenvolvimento de habilidades de comunicação através de improvisação teatr
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/refs/heads/main/icones%20apps/App%20Icon%20Light.png" width="60" /> [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/refs/heads/main/icones%20apps/App%20Icon%20Light.png" width="60" style="vertical-align: middle;" /> [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
+
 **📱⌚ iOS + watchOS | 8 semanas**
 
 Gestão de tarefas familiares com sincronização em tempo real entre iPhone e Apple Watch.
@@ -108,7 +109,7 @@ Gestão de tarefas familiares com sincronização em tempo real entre iPhone e A
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/refs/heads/main/icones%20apps/Icone.png" width="60" /> [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/refs/heads/main/icones%20apps/Icone.png" width="60" style="vertical-align: middle;" /> [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
 
 **♿ Comunicação assistiva | 6 semanas**
 
@@ -127,7 +128,7 @@ Solução de comunicação acessível com foco em inclusão digital.
 <tr>
 <td colspan="2" align="center">
 
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone%20cultural%20stormy.png" width="100" /> [Cultural Storm](https://apps.apple.com/br/app/cultural-storm/id6743093618)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone%20cultural%20stormy.png" width="100" style="vertical-align: middle;" /> [Cultural Storm](https://apps.apple.com/br/app/cultural-storm/id6743093618)
 
 **📺 tvOS | 5 semanas**
 
