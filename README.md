@@ -93,7 +93,7 @@ Desenvolvimento de habilidades de comunicação através de improvisação teatr
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone.png" width="60" /> [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/App%20icon%20Light.png" width="60" /> [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
 
 **📱⌚ iOS + watchOS | 8 semanas**
 
@@ -109,7 +109,7 @@ Gestão de tarefas familiares com sincronização em tempo real entre iPhone e A
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/App%20icon%20Light.png" width="60" /> [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/icone.png" width="60" /> [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
 
 **♿ Comunicação assistiva | 6 semanas**
 
