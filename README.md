@@ -43,15 +43,6 @@ Desenvolvedora iOS formada em Ciência da Computação pela UFAM, com 5 aplicaç
 ![TestFlight](https://img.shields.io/badge/-TestFlight-0D96F6?style=flat-square&logo=app-store&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=juliana039&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-  
-  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliana039&layout=compact&theme=radical)
-
-</div>
 
 ## 🏆 Projetos Publicados na App Store
 
