@@ -59,7 +59,7 @@ Desenvolvedora iOS formada em Ciência da Computação pela UFAM, com 5 aplicaç
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/42/f5/9742f5f3-8e3e-3b7e-c5e7-3e3e0b5c5d5e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [Timeti](https://apps.apple.com/br/app/timeti/id6752839068)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/timeti.png" width="30" /> [Timeti](https://apps.apple.com/br/app/timeti/id6752839068)
 
 **🏆 3º lugar Best Paper SBGames 2025**
 
@@ -74,7 +74,7 @@ Jogo educacional com algoritmo de plano projetivo finito desenvolvido em Python 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/5e/3e/f05e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [Story Stage](https://apps.apple.com/br/app/story-stage/id6751246359)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/storystage.png" width="30" /> [Story Stage](https://apps.apple.com/br/app/story-stage/id6751246359)
 
 **🎭 Jogo multiplayer de improvisação**
 
@@ -93,7 +93,7 @@ Desenvolvimento de habilidades de comunicação através de improvisação teatr
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/8e/3e/9c8e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/beezzy.png" width="30" /> [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
 
 **📱⌚ iOS + watchOS | 8 semanas**
 
@@ -109,7 +109,7 @@ Gestão de tarefas familiares com sincronização em tempo real entre iPhone e A
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/3e/3e/7e3e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/carebeep.png" width="30" /> [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
 
 **♿ Comunicação assistiva | 6 semanas**
 
@@ -128,7 +128,7 @@ Solução de comunicação acessível com foco em inclusão digital.
 <tr>
 <td colspan="2" align="center">
 
-### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/3e/3e/3e3e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [Cultural Storm](https://apps.apple.com/br/app/cultural-storm/id6743093618)
+### <img src="https://raw.githubusercontent.com/juliana039/juliana039/main/icones%20apps/culturalstorm.png" width="30" /> [Cultural Storm](https://apps.apple.com/br/app/cultural-storm/id6743093618)
 
 **📺 tvOS | 5 semanas**
 
