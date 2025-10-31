@@ -10,12 +10,12 @@
 
 Desenvolvedora iOS formada em Ciência da Computação pela UFAM, com 5 aplicações publicadas na App Store. Apaixonada por criar experiências mobile nativas e escaláveis, com foco em código limpo, acessibilidade e boas práticas de desenvolvimento.
 
-- **5 aplicações publicadas** na App Store
-- Formada pela **Apple Developer Academy**
-- Especializada em **Swift, SwiftUI e arquitetura MVVM**
-- **3º lugar Best Paper** na trilha de Educação do SBGames 2025
-- Manaus, Amazonas | Disponível para mobilidade nacional
-- **Contato:** juliana.pereira.magalhaes@gmail.com
+- 🍎 **5 aplicações publicadas** na App Store
+- 🎓 Formada pela **Apple Developer Academy**
+- 📱 Especializada em **Swift, SwiftUI e arquitetura MVVM**
+- 🏆 **3º lugar Best Paper** na trilha de Educação do SBGames 2025
+- 🌎 Manaus, Amazonas | Disponível para mobilidade nacional
+- 📫 **Contato:** juliana.pereira.magalhaes@gmail.com
 
 ## 🛠️ Stack Tecnológico
 
@@ -43,51 +43,103 @@ Desenvolvedora iOS formada em Ciência da Computação pela UFAM, com 5 aplicaç
 ![TestFlight](https://img.shields.io/badge/-TestFlight-0D96F6?style=flat-square&logo=app-store&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=juliana039&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliana039&layout=compact&theme=radical)
+
+</div>
 
 ## 🏆 Projetos Publicados na App Store
 
-### 📱 [Timeti](https://apps.apple.com/br/app/timeti/id6752839068)
-**TCC premiado - 3º lugar Best Paper SBGames 2025**
-> Jogo educacional com algoritmo de plano projetivo finito desenvolvido em Python e integrado ao SwiftUI via JSON.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/42/f5/9742f5f3-8e3e-3b7e-c5e7-3e3e0b5c5d5e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [Timeti](https://apps.apple.com/br/app/timeti/id6752839068)
+
+**🏆 3º lugar Best Paper SBGames 2025**
+
+Jogo educacional com algoritmo de plano projetivo finito desenvolvido em Python e integrado ao SwiftUI via JSON.
 
 **Stack:** Swift, SwiftUI, Python  
-**Destaques:** Algoritmo matemático complexo, integração multiplataforma, artigo científico publicado
+**Destaques:**
+- Algoritmo matemático complexo
+- Integração multiplataforma
+- Artigo científico publicado
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🎭 [Story Stage](https://apps.apple.com/br/app/story-stage/id6751246359)
-**Jogo multiplayer de improvisação**
-> Desenvolvimento de habilidades de comunicação através de improvisação teatral com suporte para até 8 jogadores.
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/5e/3e/f05e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [Story Stage](https://apps.apple.com/br/app/story-stage/id6751246359)
+
+**🎭 Jogo multiplayer de improvisação**
+
+Desenvolvimento de habilidades de comunicação através de improvisação teatral com suporte para até 8 jogadores.
 
 **Stack:** Swift, SwiftUI, GameCenter  
-**Destaques:** Sincronização multiplayer, sistema de comunicação entre jogadores, responsividade multi-device, internacionalização
+**Destaques:**
+- Sincronização multiplayer
+- Sistema de comunicação
+- Responsividade multi-device
+- Internacionalização
 
----
+</td>
+</tr>
 
-### 👨‍👩‍👧 [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
-**App multiplataforma iOS + watchOS - 8 semanas**
-> Gestão de tarefas familiares com sincronização em tempo real entre iPhone e Apple Watch.
+<tr>
+<td width="50%" valign="top">
 
-**Stack:** Swift, SwiftUI, CloudKit, watchOS, Watch Connectivity  
-**Destaques:** Arquitetura MVVM, sincronização CloudKit, componentes reutilizáveis, watchOS integration
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/8e/3e/9c8e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [Beezzy](https://apps.apple.com/br/app/beezzy/id6746419810)
 
----
+**📱⌚ iOS + watchOS | 8 semanas**
 
-### 🗣️ [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
-**Comunicação assistiva - 6 semanas**
-> Solução de comunicação acessível com foco em inclusão digital.
+Gestão de tarefas familiares com sincronização em tempo real entre iPhone e Apple Watch.
 
-**Stack:** Swift, SwiftUI, Push Notifications, VoiceOver  
-**Destaques:** Acessibilidade total (VoiceOver), internacionalização, push notifications, iteração pós-lançamento
+**Stack:** Swift, SwiftUI, CloudKit, watchOS  
+**Destaques:**
+- Arquitetura MVVM
+- Sincronização CloudKit
+- Watch Connectivity
+- Componentes reutilizáveis
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📺 [Cultural Storm](https://apps.apple.com/br/app/cultural-storm/id6743093618)
-**App tvOS - 5 semanas**
-> Aplicação otimizada para Apple TV seguindo as diretrizes de Human Interface Guidelines.
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/3e/3e/7e3e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [CareBeep](https://apps.apple.com/br/app/carebeep/id6737746972)
+
+**♿ Comunicação assistiva | 6 semanas**
+
+Solução de comunicação acessível com foco em inclusão digital.
+
+**Stack:** Swift, SwiftUI, Push Notifications  
+**Destaques:**
+- Acessibilidade VoiceOver
+- Internacionalização
+- Push Notifications
+- Iteração pós-lançamento
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/3e/3e/3e3e3e3e-3e3e-3e3e-3e3e-3e3e3e3e3e3e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/230x0w.webp" width="30" /> [Cultural Storm](https://apps.apple.com/br/app/cultural-storm/id6743093618)
+
+**📺 tvOS | 5 semanas**
+
+Aplicação otimizada para Apple TV seguindo as diretrizes de Human Interface Guidelines.
 
 **Stack:** Swift, SwiftUI, tvOS  
-**Destaques:** Interface otimizada para TV, navegação por controle remoto, UX/UI seguindo HIG da Apple
+**Destaques:** Interface otimizada para TV · Navegação por controle remoto · UX/UI seguindo HIG da Apple
+
+</td>
+</tr>
+</table>
 
 ## 💼 Experiência Profissional
 
