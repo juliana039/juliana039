@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedora iOS formada em Ciência da Computação pela UFAM, com 5 aplicações publicadas na App Store. Apaixonada por criar experiências mobile nativas e escaláveis, com foco em código limpo, acessibilidade e boas práticas de desenvolvimento.
+Desenvolvedora de software formada em Ciência da Computação pela UFAM, com 5 aplicações publicadas na App Store. Apaixonada por criar experiências mobile nativas e escaláveis, com foco em código limpo, acessibilidade e boas práticas de desenvolvimento.
 
 - **5 aplicações publicadas** na App Store
 - Formada pela **Apple Developer Academy**
